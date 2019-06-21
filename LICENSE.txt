@@ -1,0 +1,4 @@
+The code here is available for use under the Creative Commons Attribution4.0 International license. https://creativecommons.org/licenses/by/4.0/
+
+The data were made available by Google, Inc. (https://github.com/googlecreativelab/quickdraw-dataset) under the Creative Commons Attribution 4.0 International license.
+https://creativecommons.org/licenses/by/4.0/
