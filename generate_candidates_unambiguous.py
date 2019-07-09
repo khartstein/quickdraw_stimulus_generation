@@ -1,7 +1,7 @@
 """
-This script generates the candidate sketches for stimulus creation in the
-sketch-morph project. It should be run in the "generate-candidates conda
-environment included in this repository
+This script generates the candidate sketches for unambiguous stimulus creation
+in the sketch-morph project. It should be run in the "generate-candidates"
+conda environment included in this repository
 """
 
 import sys
